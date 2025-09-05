@@ -1,1 +1,1 @@
-Each MATLAB file is a script that solves a specific heat transfer, fluid dynamics, or generical engineering computational differential problem. All of them uses finite difference schemes to discretize the mesh and the differential operators.
+Each MATLAB file is a script that solves a specific heat transfer, fluid dynamics, or generical engineering computational differential problem. All of them use finite difference schemes to discretize the mesh and the differential operators.
